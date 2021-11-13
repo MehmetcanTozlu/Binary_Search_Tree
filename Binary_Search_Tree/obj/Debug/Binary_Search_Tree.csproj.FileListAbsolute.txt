@@ -1,0 +1,7 @@
+C:\Users\mehmet\source\repos\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\Binary_Search_Tree.exe.config
+C:\Users\mehmet\source\repos\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\Binary_Search_Tree.exe
+C:\Users\mehmet\source\repos\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\Binary_Search_Tree.pdb
+C:\Users\mehmet\source\repos\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.csprojAssemblyReference.cache
+C:\Users\mehmet\source\repos\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.exe
+C:\Users\mehmet\source\repos\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.pdb
